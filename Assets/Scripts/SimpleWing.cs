@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-// hoge
 
 [RequireComponent(typeof(Rigidbody))]
 public class SimpleWing : MonoBehaviour
